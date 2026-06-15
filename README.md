@@ -35,7 +35,10 @@ Depois no browser:
 - Admin gere o catálogo de exercícios
 - Filtro e paginação na listagem de treinos
 
+
+
 ## Estrutura
+
 
 ```
 fitness-app/
@@ -58,6 +61,8 @@ fitness-app/
 ├── exercicios.php          só admin
 └── seed.php                dados de demonstração
 ```
+
+
 
 ## Autores
 
