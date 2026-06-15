@@ -68,3 +68,4 @@ fitness-app/
 
 - Rui Silva — nº50050
 - Francisco Luis — nº50102
+
