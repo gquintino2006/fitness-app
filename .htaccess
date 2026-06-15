@@ -1,0 +1,8 @@
+# Páginas de erro personalizadas
+ErrorDocument 404 /fitness-app/errors/404.php
+ErrorDocument 403 /fitness-app/errors/403.php
+
+# Impedir acesso direto ao ficheiro da base de dados
+<Files "*.db">
+    Require all denied
+</Files>

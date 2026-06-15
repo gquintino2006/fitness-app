@@ -1,0 +1,20 @@
+﻿# Base de dados (gerada pelo seed.php)
+data/fittrack.db
+data/fittrack.db-shm
+data/fittrack.db-wal
+
+# Uploads de utilizadores
+uploads/*
+!uploads/.gitkeep
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+
+# Claude Code
+.claude/
