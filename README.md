@@ -3,6 +3,11 @@
 Aplicação web de acompanhamento fitness.
 Stack: **PHP** · **SQLite** · **Chart.js**
 
+## Requisitos
+
+- PHP 8.0 ou superior
+- Extensão PDO SQLite ativada
+
 ## Correr (PowerShell)
 
 ```powershell
